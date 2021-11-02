@@ -24,7 +24,7 @@
  *
  */
  
-const uint16_t SixteenSegmentASCII-NDP[96] = {
+const uint16_t SixteenSegmentASCII_NDP[96] = {
 	0b0000000000000000, /* (space) */
 	0b0000000000001100, /* ! */
 	0b0000001000000100, /* " */
